@@ -1,5 +1,7 @@
 <template>
-  
+<main>
+    this is the sign in page
+</main>
 </template>
 
 <script>

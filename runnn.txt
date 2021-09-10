@@ -1,0 +1,19 @@
+
+
+Osuyaem@DESKTOP-Q4O13L2 MINGW64 ~/Desktop/imedix (master)
+$ npm run serve
+
+> imedix@0.1.0 serve C:\Users\Osuyaem\Desktop\imedix
+> vue-cli-service serve
+
+ INFO  Starting development server...
+98% after emitting CopyPlugin
+
+ DONE  Compiled successfully in 9089ms                                                                                8:11:54 AM
+
+  App running at:
+  - Local:   http://localhost:8080/
+  - Network: http://192.168.0.108:8080/
+
+  Note that the development build is not optimized.
+  To create a production build, run npm run build.
